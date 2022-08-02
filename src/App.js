@@ -1,8 +1,9 @@
 import React from 'react'
+import { Header } from './components'
 
 const App = () => {
   return (
-    <div className='font-bold text-3xl'>App</div>
+    <Header />
   )
 }
 
